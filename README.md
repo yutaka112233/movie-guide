@@ -21,6 +21,10 @@
 
 ---
 
+> このREADMEのコマンドに出てくる `$env:USERPROFILE` は、PowerShell が自動で
+> `C:\Users\<あなたのWindowsユーザー名>` に置き換えてくれます。書き換えずにそのまま
+> コピー＆貼り付けしてください（このREADMEは公開されるため、ユーザー名を直接書いていません）。
+
 ## 1. ファイル構成
 
 ```
@@ -186,7 +190,7 @@ PowerShell を開き、次の1行を実行します（コピーしてそのま�
 週末おでかけと同じ形式で、黒いウィンドウが出ないように動きます。
 
 ```
-schtasks /Create /TN "MovieGuide-Biweekly" /TR "powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File \"C:\Users\mppwy\OneDrive\ドキュメント\クロードコード\movie-guide\tools\update.ps1\"" /SC WEEKLY /MO 2 /D SUN /ST 21:00 /F
+schtasks /Create /TN "MovieGuide-Biweekly" /TR "powershell.exe -NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File \"$env:USERPROFILE\OneDrive\ドキュメント\クロードコード\movie-guide\tools\update.ps1\"" /SC WEEKLY /MO 2 /D SUN /ST 21:00 /F
 ```
 
 | 項目 | 内容 |
@@ -259,7 +263,7 @@ schtasks /Delete /TN "MovieGuide-Biweekly" /F
 2. PowerShell で以下を実行（`<ユーザー名>` は自分のGitHubユーザー名に置き換え）
 
 ```
-cd "C:\Users\mppwy\OneDrive\ドキュメント\クロードコード\movie-guide"
+cd "$env:USERPROFILE\OneDrive\ドキュメント\クロードコード\movie-guide"
 git init
 git add -A
 git commit -m "初回コミット"
