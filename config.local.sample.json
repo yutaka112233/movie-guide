@@ -1,0 +1,4 @@
+{
+  "_comment": "このファイルを config.local.json という名前でコピーし、tmdbApiKey にTMDbのAPIキー(v3 auth)を貼り付けてください。config.local.json は .gitignore で除外されているのでGitHubには上がりません。取得方法はREADMEの「TMDbのAPIキーを取得する」を参照。",
+  "tmdbApiKey": ""
+}
