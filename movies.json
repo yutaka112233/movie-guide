@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-09",
-  "targetPeriod": "2026年9月上旬〜10月上旬",
-  "nextUpdate": "2026-09-13",
+  "updatedAt": "2026-09-20",
+  "targetPeriod": "2026年9月下旬〜10月下旬",
+  "nextUpdate": "2026-10-04",
   "isSampleData": false,
   "posterCredit": "ポスター画像・作品データの一部は TMDB のものを利用しています。This product uses the TMDB API but is not endorsed or certified by TMDB.",
   "criteria": {
@@ -36,11 +36,11 @@
       },
       "bonuses": [
         {
-          "phase": "第4弾",
-          "period": "9/5(土)〜",
-          "content": "チャームミニフィギュア（島二郎・ヒトハ・フタバ・セイレーンの4種からランダム1点）",
+          "phase": "第5弾",
+          "period": "9/19(土)〜",
+          "content": "全52ページの「ひみつ本」（描き下ろし漫画・エッセイ、セイレーン編構想時のストーリーイラストなど収録）",
           "limited": true,
-          "note": ""
+          "note": "劇場ごとに数量限定、なくなり次第配布終了"
         }
       ],
       "bonusNote": "",
@@ -81,46 +81,9 @@
         }
       ],
       "bonusNote": "",
-      "theaters": [],
+      "theaters": ["イオンシネマ みなとみらい"],
       "officialUrl": "https://www.pinkfong.com/bebefinn-the-movie/",
       "note": "未就学児向け",
-      "needsCheck": false,
-      "checkReason": ""
-    },
-    {
-      "title": "THE RIBBON HERO リボンヒーロー",
-      "audience": "both",
-      "status": "now",
-      "releaseDate": "2026-09-04",
-      "releaseLabel": "2026年9月4日(金)公開（劇場2週間限定）",
-      "rating": "",
-      "runtime": 108,
-      "genre": "アニメ",
-      "dubbed": false,
-      "synopsis": "かつて怪物ネルガルに故郷を奪われた亡国の王女サファイア。絶望を乗り越え希望の騎士となった彼女は、新たに見つけた居場所を破滅の運命から救うため、再び剣を手に立ち上がる。",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/79APJkTug1OzTrTtTmSmy2TgSuU.jpg",
-      "tmdbId": 1679730,
-      "mubichike": {
-        "available": false,
-        "salesLabel": "",
-        "types": "",
-        "price": "",
-        "note": "公開中のため前売券の販売は終了しています",
-        "url": ""
-      },
-      "bonuses": [
-        {
-          "phase": "1週目",
-          "period": "9/4(金)〜9/10(木)",
-          "content": "主題歌『Reborn』収録CD",
-          "limited": true,
-          "note": "配布は9/10(木)までの予定です"
-        }
-      ],
-      "bonusNote": "",
-      "theaters": [],
-      "officialUrl": "https://www.theribbonhero.com/",
-      "note": "手塚治虫「リボンの騎士」原作。劇場公開は2週間限定（Netflixでも配信中）",
       "needsCheck": false,
       "checkReason": ""
     },
@@ -146,8 +109,8 @@
         "url": ""
       },
       "bonuses": [],
-      "bonusNote": "現時点では確認できていません",
-      "theaters": ["T・ジョイ横浜"],
+      "bonusNote": "第2弾（オリジナルミニノート）までは配布終了。現時点で新たな特典が配布中かは確認できていません",
+      "theaters": ["T・ジョイ横浜", "イオンシネマ みなとみらい"],
       "officialUrl": "",
       "note": "",
       "needsCheck": false,
@@ -175,12 +138,12 @@
         "url": ""
       },
       "bonuses": [],
-      "bonusNote": "現時点では確認できていません（公開から1か月以上経過しており終了している可能性があります）",
-      "theaters": [],
+      "bonusNote": "現時点では特典配布の有無を確認できていません",
+      "theaters": ["T・ジョイ横浜", "イオンシネマ みなとみらい"],
       "officialUrl": "https://shin-ei-animation.jp/works/movie_shinchan_2026/",
-      "note": "公開から1か月以上経過しており、横浜周辺での上映が終了している可能性があります",
-      "needsCheck": true,
-      "checkReason": "公開から1か月以上経過しています。現在も上映しているか、劇場の上映スケジュールで確認してください"
+      "note": "公開から1か月半以上経過していますが、横浜周辺の劇場でも上映継続を確認しています",
+      "needsCheck": false,
+      "checkReason": ""
     },
     {
       "title": "スパイダーマン：ブランド・ニュー・デイ",
@@ -188,7 +151,7 @@
       "status": "now",
       "releaseDate": "2026-07-31",
       "releaseLabel": "2026年7月31日(金)公開",
-      "rating": "",
+      "rating": "G",
       "runtime": 145,
       "genre": "洋画・アクション",
       "dubbed": true,
@@ -204,8 +167,8 @@
         "url": ""
       },
       "bonuses": [],
-      "bonusNote": "現時点では確認できていません",
-      "theaters": ["横浜ブルク13", "TOHOシネマズ ららぽーと横浜"],
+      "bonusNote": "複数弾の入場者プレゼントが配布されましたが、現時点でどの弾が配布中かは確認できていません",
+      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "TOHOシネマズ ららぽーと横浜"],
       "officialUrl": "https://spiderman-movie.jp/",
       "note": "全米・国内ともにランキング上位。横浜ブルク13ではSCREENX上映も実施",
       "needsCheck": false,
@@ -214,7 +177,7 @@
     {
       "title": "映画「宇宙なんちゃら こてつくん」うっかり出てきた宇宙人を探せ！",
       "audience": "kids",
-      "status": "soon",
+      "status": "now",
       "releaseDate": "2026-09-11",
       "releaseLabel": "2026年9月11日(金)公開",
       "rating": "",
@@ -225,12 +188,12 @@
       "posterUrl": "",
       "tmdbId": null,
       "mubichike": {
-        "available": true,
-        "salesLabel": "〜2026年9月10日(木)23:59（公開前日まで）",
-        "types": "ムビチケカード / 前売オンライン券",
+        "available": false,
+        "salesLabel": "",
+        "types": "",
         "price": "",
-        "note": "販売開始日・価格は確認できていません",
-        "url": "https://ticket.moviewalker.jp/film/093466"
+        "note": "公開中のため前売券の販売は終了しています",
+        "url": ""
       },
       "bonuses": [
         {
@@ -242,7 +205,7 @@
         }
       ],
       "bonusNote": "",
-      "theaters": [],
+      "theaters": ["イオンシネマ みなとみらい"],
       "officialUrl": "https://space--academy.com/eiga.html",
       "note": "未就学児〜小学生向け。上映時間が短めの作品",
       "needsCheck": false,
@@ -251,35 +214,42 @@
     {
       "title": "映画名探偵プリキュア！不思議な庭と2人の秘密",
       "audience": "kids",
-      "status": "soon",
+      "status": "now",
       "releaseDate": "2026-09-18",
       "releaseLabel": "2026年9月18日(金)公開",
       "rating": "",
-      "runtime": null,
+      "runtime": 73,
       "genre": "アニメ・ファミリー",
       "dubbed": false,
       "synopsis": "誕生日に妖精ポチタンと出会った明智あんなは、謎の光に飲み込まれてタイムスリップ。探偵志望の小林みくると出会い、名探偵プリキュアに変身して怪盗団ファントムに挑む、謎解きアドベンチャー。",
       "posterUrl": "https://image.tmdb.org/t/p/w500/bJg5Eh20xrIQIBgwCKJWLbajCsL.jpg",
       "tmdbId": 1663937,
       "mubichike": {
-        "available": true,
-        "salesLabel": "2026年6月26日(金)10:00〜9月17日(木)23:59（公開前日まで）",
-        "types": "ムビチケカード（5種のビジュアルから選択） / 前売オンライン券",
-        "price": "一般1,600円 / 小人（3歳以上）900円",
-        "note": "劇場限定のプレゼント付きムビチケあり",
-        "url": "https://ticket.moviewalker.jp/film/092834"
+        "available": false,
+        "salesLabel": "",
+        "types": "",
+        "price": "",
+        "note": "公開中のため前売券の販売は終了しています",
+        "url": ""
       },
       "bonuses": [
         {
-          "phase": "",
+          "phase": "第1弾",
           "period": "9/18(金)〜",
           "content": "ポチタンミラクルライト",
           "limited": true,
           "note": "配布対象は中学生以下のみ"
+        },
+        {
+          "phase": "第2弾",
+          "period": "9/25(金)〜10/1(木)",
+          "content": "はなまる発見★チェンジングカード（「名探偵プリキュア!」「キミとアイドルプリキュア♪」「わんだふるぷりきゅあ!」の全3種からランダム1点、動かすと絵柄がチェンジ）",
+          "limited": true,
+          "note": "1週間限定・数量限定。第1弾と異なり大人も入手可能"
         }
       ],
       "bonusNote": "",
-      "theaters": ["イオンシネマ みなとみらい"],
+      "theaters": ["イオンシネマ みなとみらい", "T・ジョイ横浜"],
       "officialUrl": "https://www.precure-movie.com/",
       "note": "ミラクルライトは上映中に振って応援できる、こども向けの定番特典",
       "needsCheck": false,
@@ -315,12 +285,49 @@
       "checkReason": ""
     },
     {
+      "title": "トイ・ストーリー5",
+      "audience": "both",
+      "status": "now",
+      "releaseDate": "2026-07-03",
+      "releaseLabel": "2026年7月3日(金)公開",
+      "rating": "G",
+      "runtime": 102,
+      "genre": "アニメ・ファミリー",
+      "dubbed": true,
+      "synopsis": "想像力豊かで内気な少女・ボニーの成長をそばで見守ってきたカウガール人形のジェシー。しかしタブレット端末「リリーパッド」の登場で日常は大きく変わり、ウッディやバズと共に新たなハイテクおもちゃたちとの騒動に巻き込まれていく。",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dEoN5k2ulqk9mhEwVrapciKJm8s.jpg",
+      "tmdbId": 1084244,
+      "mubichike": {
+        "available": false,
+        "salesLabel": "",
+        "types": "",
+        "price": "",
+        "note": "公開中のため前売券の販売は終了しています",
+        "url": ""
+      },
+      "bonuses": [
+        {
+          "phase": "トイ・ストーリー30周年記念",
+          "period": "9/12(金)〜",
+          "content": "30周年記念ビジュアル＆『トイ・ストーリー5』特別ビジュアル ポストカードセット",
+          "limited": true,
+          "note": "一部劇場を除く、なくなり次第配布終了"
+        }
+      ],
+      "bonusNote": "",
+      "theaters": ["T・ジョイ横浜", "イオンシネマ みなとみらい"],
+      "officialUrl": "https://www.disney.co.jp/movie/toy5",
+      "note": "公開から2か月以上経過していますが、大ヒットロングランで横浜周辺でも上映継続中",
+      "needsCheck": false,
+      "checkReason": ""
+    },
+    {
       "title": "白鳥とコウモリ",
       "audience": "adult",
       "status": "now",
       "releaseDate": "2026-09-04",
       "releaseLabel": "2026年9月4日(金)公開",
-      "rating": "",
+      "rating": "G",
       "runtime": 145,
       "genre": "邦画・ミステリー",
       "dubbed": false,
@@ -336,9 +343,9 @@
         "url": ""
       },
       "bonuses": [],
-      "bonusNote": "現時点では確認できていません",
+      "bonusNote": "入場者特典は確認できていません（劇場グッズ・パンフレットの販売あり）",
       "theaters": ["横浜ブルク13", "T・ジョイ横浜"],
-      "officialUrl": "https://www.shochiku.co.jp/cinema/lineup/hakuchotokomori/",
+      "officialUrl": "https://movies.shochiku.co.jp/eiga-hakuchotokomori/",
       "note": "国内ランキング上位",
       "needsCheck": false,
       "checkReason": ""
@@ -349,7 +356,7 @@
       "status": "now",
       "releaseDate": "2026-09-04",
       "releaseLabel": "2026年9月4日(金)公開",
-      "rating": "",
+      "rating": "G",
       "runtime": 127,
       "genre": "洋画・ホラー",
       "dubbed": true,
@@ -368,9 +375,16 @@
         {
           "phase": "第1弾",
           "period": "9/4(金)〜",
-          "content": "『バックルームズ』をもっと楽しむ小冊子",
+          "content": "『バックルームズ』をもっと楽しむ小冊子（リミナルスペース小講座）",
           "limited": true,
           "note": ""
+        },
+        {
+          "phase": "第2弾",
+          "period": "9/11(木)〜",
+          "content": "「黄色い部屋の記憶」壁紙ステッカー",
+          "limited": true,
+          "note": "一部劇場を除く、数量限定"
         }
       ],
       "bonusNote": "",
@@ -386,7 +400,7 @@
       "status": "now",
       "releaseDate": "2026-08-28",
       "releaseLabel": "2026年8月28日(金)公開",
-      "rating": "",
+      "rating": "G",
       "runtime": 119,
       "genre": "アニメ",
       "dubbed": false,
@@ -403,15 +417,15 @@
       },
       "bonuses": [
         {
-          "phase": "2週目",
-          "period": "9/5(土)〜9/11(金)",
-          "content": "蒼樹うめ 描きおろしミニ色紙風カード［第2弾］（全3種ランダム）",
+          "phase": "第4週目",
+          "period": "9/19(土)〜9/25(金)",
+          "content": "特製ポストカード（キャラクター原案・蒼樹うめによる最新ビジュアル使用）",
           "limited": true,
-          "note": ""
+          "note": "なくなり次第配布終了"
         }
       ],
       "bonusNote": "",
-      "theaters": [],
+      "theaters": ["T・ジョイ横浜", "イオンシネマ みなとみらい"],
       "officialUrl": "https://www.madoka-magica.com/wr/",
       "note": "アニメだが内容は大人向け。小学生以下には不向き",
       "needsCheck": false,
@@ -422,8 +436,8 @@
       "audience": "adult",
       "status": "now",
       "releaseDate": "2026-09-04",
-      "releaseLabel": "2026年9月4日(金)公開（3週間限定上映）",
-      "rating": "",
+      "releaseLabel": "2026年9月4日(金)公開（3週間限定上映、9月24日(木)まで）",
+      "rating": "PG12",
       "runtime": 107,
       "genre": "アニメ",
       "dubbed": false,
@@ -438,19 +452,11 @@
         "note": "公開中のため前売券の販売は終了しています",
         "url": ""
       },
-      "bonuses": [
-        {
-          "phase": "1週目",
-          "period": "9/4(金)〜9/11(金)",
-          "content": "キャラクターデザイン・岸田隆宏 描きおろしビジュアルボード(B5)",
-          "limited": true,
-          "note": ""
-        }
-      ],
-      "bonusNote": "",
+      "bonuses": [],
+      "bonusNote": "1週目・2週目の描きおろしビジュアルボードは配布終了。最終週（3週目）の特典内容は確認できていません",
       "theaters": ["T・ジョイ横浜", "横浜ブルク13"],
       "officialUrl": "https://sekiro-anime.jp/",
-      "note": "3週間限定上映",
+      "note": "3週間限定上映で9月24日(木)が最終上映日の予定です",
       "needsCheck": false,
       "checkReason": ""
     },
@@ -477,7 +483,7 @@
       },
       "bonuses": [],
       "bonusNote": "現時点では確認できていません",
-      "theaters": [],
+      "theaters": ["横浜ブルク13", "TOHOシネマズ ららぽーと横浜"],
       "officialUrl": "https://www.tokizan.jp/",
       "note": "レビュー評価の高い作品。中島哲也監督",
       "needsCheck": false,
@@ -506,7 +512,7 @@
       },
       "bonuses": [],
       "bonusNote": "現時点では確認できていません",
-      "theaters": [],
+      "theaters": ["横浜ブルク13", "TOHOシネマズ ららぽーと横浜"],
       "officialUrl": "https://swallowtail4k.jp/",
       "note": "岩井俊二監督完全監修による公開30周年記念4Kリマスター＆Dolby Atmos版",
       "needsCheck": false,
@@ -515,7 +521,7 @@
     {
       "title": "オデュッセイア",
       "audience": "adult",
-      "status": "soon",
+      "status": "now",
       "releaseDate": "2026-09-11",
       "releaseLabel": "2026年9月11日(金)公開",
       "rating": "",
@@ -526,16 +532,16 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/oe40oI7aulGLkoNDEZWxyeIQGZq.jpg",
       "tmdbId": 1368337,
       "mubichike": {
-        "available": true,
-        "salesLabel": "2026年6月12日10:00〜9月10日(木)23:59（公開前日まで）",
-        "types": "ムビチケカード / ムビチケオンライン券",
-        "price": "1,600円",
-        "note": "現時点で入場者特典の情報はありません",
-        "url": "https://ticket.moviewalker.jp/film/090314"
+        "available": false,
+        "salesLabel": "",
+        "types": "",
+        "price": "",
+        "note": "公開中のため前売券の販売は終了しています",
+        "url": ""
       },
       "bonuses": [],
       "bonusNote": "入場者特典は現時点では確認できていません",
-      "theaters": ["TOHOシネマズ ららぽーと横浜"],
+      "theaters": ["TOHOシネマズ ららぽーと横浜", "T・ジョイ横浜"],
       "officialUrl": "https://odyssey-film.jp/",
       "note": "全米ランキング上位",
       "needsCheck": false,
@@ -544,7 +550,7 @@
     {
       "title": "最終楽章 響け！ユーフォニアム 後編",
       "audience": "adult",
-      "status": "soon",
+      "status": "now",
       "releaseDate": "2026-09-11",
       "releaseLabel": "2026年9月11日(金)公開",
       "rating": "",
@@ -572,7 +578,7 @@
         }
       ],
       "bonusNote": "",
-      "theaters": [],
+      "theaters": ["T・ジョイ横浜", "イオンシネマ みなとみらい"],
       "officialUrl": "https://anime-eupho.com/",
       "note": "前編を観ていることが前提のシリーズ作品",
       "needsCheck": false,
@@ -581,26 +587,34 @@
     {
       "title": "踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！",
       "audience": "adult",
-      "status": "soon",
+      "status": "now",
       "releaseDate": "2026-09-18",
       "releaseLabel": "2026年9月18日(金)公開",
-      "rating": "",
-      "runtime": 142,
+      "rating": "G",
+      "runtime": 141,
       "genre": "邦画・アクション",
       "dubbed": false,
       "synopsis": "東京都内で誘拐事件が発生。犯人は身代金を指定場所まで持ってくるよう指示し、間に合わなければ街を爆破すると予告する。3Dプリンター拳銃による連続殺人事件も発生する中、青島は仲間と事件解決に奔走する。",
       "posterUrl": "https://image.tmdb.org/t/p/w500/zxpus1lIDG7wqAuzsD0zgM6mXwM.jpg",
       "tmdbId": 1491083,
       "mubichike": {
-        "available": true,
-        "salesLabel": "2026年7月17日(金)〜9月17日(木)（公開前日まで）",
-        "types": "ムビチケカード（劇場・通販） / 前売オンライン券",
-        "price": "1,500円（税込）",
-        "note": "劇場でカードを買うとオリジナル N.E.W.ステッカーがもらえます（数量限定）。セブンネット／TOHO theater STORE／アニメイト限定のグッズ付き前売券もあり",
-        "url": "https://ticket.moviewalker.jp/film/088341"
+        "available": false,
+        "salesLabel": "",
+        "types": "",
+        "price": "",
+        "note": "公開中のため前売券の販売は終了しています",
+        "url": ""
       },
-      "bonuses": [],
-      "bonusNote": "劇場公開時の入場者特典は現時点では確認できていません（前売券購入特典は上記の通り）",
+      "bonuses": [
+        {
+          "phase": "",
+          "period": "9/18(金)〜",
+          "content": "特別捜査本部資料",
+          "limited": true,
+          "note": "先着順、なくなり次第配布終了"
+        }
+      ],
+      "bonusNote": "",
       "theaters": ["横浜ブルク13", "T・ジョイ横浜", "TOHOシネマズ 上大岡"],
       "officialUrl": "https://odoru.com/odorunew/tickets.html",
       "note": "主題歌は織田裕二「Love Somebody」",
@@ -610,10 +624,10 @@
     {
       "title": "八つ墓村",
       "audience": "adult",
-      "status": "soon",
+      "status": "now",
       "releaseDate": "2026-09-18",
       "releaseLabel": "2026年9月18日(金)公開",
-      "rating": "",
+      "rating": "G",
       "runtime": 117,
       "genre": "邦画・ミステリー",
       "dubbed": false,
@@ -621,55 +635,26 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/3xLSVAQZAs1DEUNm1TKYzx0kiLT.jpg",
       "tmdbId": 1716622,
       "mubichike": {
-        "available": true,
-        "salesLabel": "2026年7月3日10:00〜9月17日(木)23:59（公開前日まで）",
-        "types": "ムビチケカード / 前売オンライン券",
-        "price": "1,600円（税込）",
-        "note": "オンライン券購入特典としてオリジナルスマホ壁紙あり",
-        "url": "https://ticket.moviewalker.jp/film/092338"
-      },
-      "bonuses": [],
-      "bonusNote": "劇場入場者特典は現時点では確認できていません",
-      "theaters": [],
-      "officialUrl": "https://www.shochiku.co.jp/cinema/lineup/yatsuhakamura/",
-      "note": "清水崇監督×尾上松也の新解釈による『八つ墓村』",
-      "needsCheck": false,
-      "checkReason": ""
-    },
-    {
-      "title": "ひゃくえむ。1周年記念リバイバル上映",
-      "audience": "adult",
-      "status": "soon",
-      "releaseDate": "2026-09-18",
-      "releaseLabel": "2026年9月18日(金)〜 1周年記念リバイバル上映（全国6劇場）",
-      "rating": "",
-      "runtime": null,
-      "genre": "アニメ",
-      "dubbed": false,
-      "synopsis": "生まれつき足が速いトガシと、辛い現実を忘れるため走っていた転校生・小宮。100m走を通してライバルであり親友でもある関係になっていく2人を描く、ロトスコープ技法によるスポーツアニメ。",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ftUHKZfXONnjuOGGpNeFCeAXbYF.jpg",
-      "tmdbId": 1295026,
-      "mubichike": {
         "available": false,
         "salesLabel": "",
         "types": "",
         "price": "",
-        "note": "リバイバル上映のため前売券の設定は確認できていません",
+        "note": "公開中のため前売券の販売は終了しています",
         "url": ""
       },
       "bonuses": [
         {
           "phase": "",
           "period": "9/18(金)〜",
-          "content": "キャラクターデザイン：小嶋慶祐 描き下ろし特製ポストカード（1周年ver.）",
+          "content": "八つ墓村オリジナルたたりカード",
           "limited": true,
-          "note": ""
+          "note": "なくなり次第配布終了"
         }
       ],
       "bonusNote": "",
-      "theaters": ["kino cinéma 横浜みなとみらい"],
-      "officialUrl": "https://hyakuemu-anime.com/",
-      "note": "日本アカデミー賞優秀アニメーション作品賞受賞作。全国6劇場（kino cinéma新宿／立川高島屋S.C.館／横浜みなとみらい、伏見ミリオン座、kino cinéma心斎橋／天神）での限定リバイバル上映",
+      "theaters": ["T・ジョイ横浜"],
+      "officialUrl": "https://movies.shochiku.co.jp/yatsuhakamura-movie/",
+      "note": "清水崇監督×尾上松也の新解釈による『八つ墓村』",
       "needsCheck": false,
       "checkReason": ""
     },
@@ -707,6 +692,101 @@
       "theaters": ["横浜ブルク13"],
       "officialUrl": "https://penguindrum.jp/event/20260925.html",
       "note": "後編は10月2日(金)〜10月8日(木)に上映予定（後編にも同様のステッカー特典あり）。9/27には幾原邦彦監督・木村昴さん登壇のトークショー付き上映会も開催",
+      "needsCheck": false,
+      "checkReason": ""
+    },
+    {
+      "title": "キングダム 魂の決戦",
+      "audience": "adult",
+      "status": "now",
+      "releaseDate": "2026-07-17",
+      "releaseLabel": "2026年7月17日(金)公開",
+      "rating": "G",
+      "runtime": 133,
+      "genre": "邦画・アクション",
+      "dubbed": false,
+      "synopsis": "秦国が馬陽の戦いで将軍・王騎を失ってから3年。千人将に昇格した信が天下の大将軍を目指す中、趙の宰相・李牧の策略により秦以外の全ての国が手を組み、総数50万の合従軍が秦へ侵攻。函谷関で20万の兵力による防衛戦が始まる。",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iSPPbrrkiiT2O8WkLjUL2YafEJw.jpg",
+      "tmdbId": 1511675,
+      "mubichike": {
+        "available": false,
+        "salesLabel": "",
+        "types": "",
+        "price": "",
+        "note": "公開中のため前売券の販売は終了しています",
+        "url": ""
+      },
+      "bonuses": [],
+      "bonusNote": "入場者特典は実施されていない可能性があります（配布情報は確認できていません）",
+      "theaters": ["T・ジョイ横浜", "イオンシネマ みなとみらい"],
+      "officialUrl": "https://kingdom-the-movie.jp/",
+      "note": "シリーズ第5作。函谷関の戦いを描く、公開から2か月以上経過していますがロングランで上映継続中",
+      "needsCheck": false,
+      "checkReason": ""
+    },
+    {
+      "title": "ルックバック",
+      "audience": "adult",
+      "status": "now",
+      "releaseDate": "2026-09-11",
+      "releaseLabel": "2026年9月11日(金)公開",
+      "rating": "G",
+      "runtime": 99,
+      "genre": "邦画・ドラマ",
+      "dubbed": false,
+      "synopsis": "学級新聞に4コマ漫画を連載する小学4年生の藤野は、不登校の同級生・京本の圧倒的な画力に出会い衝撃を受ける。二人はやがて漫画家を志し、ライバルであり創作の仲間として歩みを共にしていく。藤本タツキ原作、是枝裕和監督による実写映画化。",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6eXDHPwPDTZTgf4wuGIP49bxxJV.jpg",
+      "tmdbId": 1591675,
+      "mubichike": {
+        "available": false,
+        "salesLabel": "",
+        "types": "",
+        "price": "",
+        "note": "公開中のため前売券の販売は終了しています",
+        "url": ""
+      },
+      "bonuses": [
+        {
+          "phase": "第2弾",
+          "period": "9/18(金)〜",
+          "content": "全64ページの特別小冊子「Special Booklet Volume1」（劇中作「メタルパレード」完成版41ページ、藤本タツキ×是枝裕和ら対談を収録）",
+          "limited": true,
+          "note": "なくなり次第配布終了"
+        }
+      ],
+      "bonusNote": "",
+      "theaters": ["T・ジョイ横浜", "イオンシネマ みなとみらい"],
+      "officialUrl": "https://k2pic.com/film/lb/",
+      "note": "第83回ヴェネチア国際映画祭コンペティション部門に正式出品",
+      "needsCheck": false,
+      "checkReason": ""
+    },
+    {
+      "title": "汝、星のごとく",
+      "audience": "adult",
+      "status": "soon",
+      "releaseDate": "2026-10-09",
+      "releaseLabel": "2026年10月9日(金)公開",
+      "rating": "PG12",
+      "runtime": 135,
+      "genre": "邦画・ドラマ",
+      "dubbed": false,
+      "synopsis": "瀬戸内のとある島で高校時代に出会った、漫画家を夢見る青埜櫂と刺繍の仕事を志す井上暁海。本屋大賞受賞のベストセラー小説を原作に、15年にわたる2人の切ない愛と選択を描く。横浜流星×広瀬すずW主演。",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nRoVOvMPOEM9GuHu5FKGigbXzVT.jpg",
+      "tmdbId": 1590933,
+      "mubichike": {
+        "available": true,
+        "salesLabel": "〜2026年10月8日(木)23:59（公開前日まで）",
+        "types": "ムビチケカード / 前売オンライン券",
+        "price": "1,500円（税込）",
+        "note": "",
+        "url": "https://ticket.moviewalker.jp/film/090318"
+      },
+      "bonuses": [],
+      "bonusNote": "入場者特典は現時点では確認できていません",
+      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "イオンシネマ みなとみらい"],
+      "officialUrl": "https://nanji.toho-movie.jp/",
+      "note": "本屋大賞受賞作の実写映画化。藤井道人監督",
       "needsCheck": false,
       "checkReason": ""
     }
