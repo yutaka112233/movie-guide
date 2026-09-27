@@ -1,8 +1,8 @@
 /* 自動生成ファイル - 直接編集しないでください。movies.json から自動生成されます。 */
 window.__MOVIES__ = {
-  "updatedAt": "2026-09-20",
+  "updatedAt": "2026-09-27",
   "targetPeriod": "2026年9月下旬〜10月下旬",
-  "nextUpdate": "2026-10-04",
+  "nextUpdate": "2026-10-11",
   "isSampleData": false,
   "posterCredit": "ポスター画像・作品データの一部は TMDB のものを利用しています。This product uses the TMDB API but is not endorsed or certified by TMDB.",
   "criteria": {
@@ -45,46 +45,9 @@ window.__MOVIES__ = {
         }
       ],
       "bonusNote": "",
-      "theaters": [],
+      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "イオンシネマ みなとみらい"],
       "officialUrl": "https://chiikawa-movie.jp/",
       "note": "興行ランキング上位の話題作",
-      "needsCheck": false,
-      "checkReason": ""
-    },
-    {
-      "title": "べべフィン・ザ・ムービー うたとまほうのピンキッツワールド",
-      "audience": "kids",
-      "status": "now",
-      "releaseDate": "2026-09-04",
-      "releaseLabel": "2026年9月4日(金)公開",
-      "rating": "",
-      "runtime": null,
-      "genre": "アニメ・ファミリー",
-      "dubbed": true,
-      "synopsis": "赤ちゃんのフィン、お姉ちゃんのボラー、お兄ちゃんのブロディの3きょうだい。魔法のタブレットの光に吸い込まれたフィンを追い、ボラーとブロディは魔法使いのピンキッツとともにピンキッツワールドへ冒険に出る。",
-      "posterUrl": "",
-      "tmdbId": null,
-      "mubichike": {
-        "available": false,
-        "salesLabel": "",
-        "types": "",
-        "price": "",
-        "note": "公開中のため前売券の販売は終了しています",
-        "url": ""
-      },
-      "bonuses": [
-        {
-          "phase": "",
-          "period": "9/4(金)〜",
-          "content": "ピンキッツ バルーン人形",
-          "limited": true,
-          "note": "配布対象は小学生以下のみ"
-        }
-      ],
-      "bonusNote": "",
-      "theaters": ["イオンシネマ みなとみらい"],
-      "officialUrl": "https://www.pinkfong.com/bebefinn-the-movie/",
-      "note": "未就学児向け",
       "needsCheck": false,
       "checkReason": ""
     },
@@ -111,9 +74,9 @@ window.__MOVIES__ = {
       },
       "bonuses": [],
       "bonusNote": "第2弾（オリジナルミニノート）までは配布終了。現時点で新たな特典が配布中かは確認できていません",
-      "theaters": ["T・ジョイ横浜", "イオンシネマ みなとみらい"],
+      "theaters": ["イオンシネマ みなとみらい"],
       "officialUrl": "",
-      "note": "",
+      "note": "上映館が減ってきています（横浜ブルク13・T・ジョイ横浜の上映一覧には見当たりませんでした）",
       "needsCheck": false,
       "checkReason": ""
     },
@@ -140,9 +103,9 @@ window.__MOVIES__ = {
       },
       "bonuses": [],
       "bonusNote": "現時点では特典配布の有無を確認できていません",
-      "theaters": ["T・ジョイ横浜", "イオンシネマ みなとみらい"],
+      "theaters": ["横浜ブルク13", "イオンシネマ みなとみらい"],
       "officialUrl": "https://shin-ei-animation.jp/works/movie_shinchan_2026/",
-      "note": "公開から1か月半以上経過していますが、横浜周辺の劇場でも上映継続を確認しています",
+      "note": "公開から約2か月経過していますが、横浜ブルク13・イオンシネマ みなとみらいで上映継続を確認しています",
       "needsCheck": false,
       "checkReason": ""
     },
@@ -167,9 +130,17 @@ window.__MOVIES__ = {
         "note": "公開中のため前売券の販売は終了しています",
         "url": ""
       },
-      "bonuses": [],
-      "bonusNote": "複数弾の入場者プレゼントが配布されましたが、現時点でどの弾が配布中かは確認できていません",
-      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "TOHOシネマズ ららぽーと横浜"],
+      "bonuses": [
+        {
+          "phase": "興収50億＆動員300万人突破記念",
+          "period": "9/5(土)〜",
+          "content": "オリジナルポストカード（A6サイズ）",
+          "limited": true,
+          "note": "数量限定、なくなり次第終了。配布開始から3週間以上経っているため、配布終了の劇場もあり得ます"
+        }
+      ],
+      "bonusNote": "",
+      "theaters": ["横浜ブルク13", "T・ジョイ横浜"],
       "officialUrl": "https://spiderman-movie.jp/",
       "note": "全米・国内ともにランキング上位。横浜ブルク13ではSCREENX上映も実施",
       "needsCheck": false,
@@ -250,7 +221,7 @@ window.__MOVIES__ = {
         }
       ],
       "bonusNote": "",
-      "theaters": ["イオンシネマ みなとみらい", "T・ジョイ横浜"],
+      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "イオンシネマ みなとみらい"],
       "officialUrl": "https://www.precure-movie.com/",
       "note": "ミラクルライトは上映中に振って応援できる、こども向けの定番特典",
       "needsCheck": false,
@@ -259,11 +230,11 @@ window.__MOVIES__ = {
     {
       "title": "アベンジャーズ／エンドゲーム：アンコール",
       "audience": "both",
-      "status": "soon",
+      "status": "now",
       "releaseDate": "2026-09-23",
       "releaseLabel": "2026年9月23日(水・祝)〜10月8日(木) 期間限定公開",
       "rating": "",
-      "runtime": null,
+      "runtime": 186,
       "genre": "洋画・アクション",
       "dubbed": true,
       "synopsis": "サノスによって人類の半分が消滅した世界で、残されたアベンジャーズが最後の逆襲に挑む。12月公開の最新作『アベンジャーズ／ドゥームズデイ』への布石となる新規映像を追加した特別版。",
@@ -274,14 +245,22 @@ window.__MOVIES__ = {
         "salesLabel": "",
         "types": "",
         "price": "",
-        "note": "2026年9月23日(水)〜10月8日(木)の期間限定上映（全国329館）。新規映像が追加されるため上映時間は未発表",
+        "note": "期間限定の再上映のため、前売券の設定は確認できていません",
         "url": ""
       },
-      "bonuses": [],
-      "bonusNote": "現時点では確認できていません",
-      "theaters": [],
+      "bonuses": [
+        {
+          "phase": "",
+          "period": "9/23(水・祝)〜",
+          "content": "特別ポスター（A3・リバーシブル仕様、『エンドゲーム：アンコール』と『ドゥームズデイ』のビジュアル）",
+          "limited": true,
+          "note": "一部劇場を除く。全フォーマット対象、劇場により数に限りあり"
+        }
+      ],
+      "bonusNote": "",
+      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "イオンシネマ みなとみらい"],
       "officialUrl": "https://marvel.disney.co.jp/movie/avengers-doomsday/endgame-encore",
-      "note": "全国329館で期間限定上映。新規映像追加による上映時間の変更有無は未確認",
+      "note": "10月8日(木)までの期間限定上映。横浜ブルク13・T・ジョイ横浜では字幕のプレミアムフォーマット上映あり",
       "needsCheck": false,
       "checkReason": ""
     },
@@ -316,9 +295,67 @@ window.__MOVIES__ = {
         }
       ],
       "bonusNote": "",
-      "theaters": ["T・ジョイ横浜", "イオンシネマ みなとみらい"],
+      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "イオンシネマ みなとみらい"],
       "officialUrl": "https://www.disney.co.jp/movie/toy5",
-      "note": "公開から2か月以上経過していますが、大ヒットロングランで横浜周辺でも上映継続中",
+      "note": "公開から約3か月経過していますが、横浜周辺でも吹替版の上映継続を確認しています",
+      "needsCheck": false,
+      "checkReason": ""
+    },
+    {
+      "title": "劇場版ダーウィンが来た！世界のネコのなかまたち",
+      "audience": "both",
+      "status": "soon",
+      "releaseDate": "2026-10-02",
+      "releaseLabel": "2026年10月2日(金)公開",
+      "rating": "",
+      "runtime": 80,
+      "genre": "ドキュメンタリー",
+      "dubbed": false,
+      "synopsis": "NHKの人気自然番組の劇場版。ライオンやチーターの狩り、マヌルネコ独特の狩りの手法など、世界の40種類以上のネコ科動物の生態と習性を大スクリーンで紹介するネイチャー・ドキュメンタリー。ナレーションは水瀬いのり。",
+      "posterUrl": "",
+      "tmdbId": null,
+      "mubichike": {
+        "available": true,
+        "salesLabel": "〜2026年10月1日(木)23:59（公開前日まで）",
+        "types": "ムビチケ前売券（オンライン）",
+        "price": "一般1,500円 / 小人900円",
+        "note": "購入者限定の鑑賞特典としてムビチケデジタルカードあり",
+        "url": "https://ticket.moviewalker.jp/film/093341"
+      },
+      "bonuses": [],
+      "bonusNote": "入場者特典は現時点では確認できていません",
+      "theaters": [],
+      "officialUrl": "https://www.worldcat-darwin.com/",
+      "note": "アニメ以外でこどもと楽しめる動物ドキュメンタリー",
+      "needsCheck": false,
+      "checkReason": ""
+    },
+    {
+      "title": "映画 ひつじのショーン かぼちゃ畑の怪物！",
+      "audience": "both",
+      "status": "soon",
+      "releaseDate": "2026-10-23",
+      "releaseLabel": "2026年10月23日(金)公開",
+      "rating": "",
+      "runtime": 81,
+      "genre": "アニメ・ファミリー",
+      "dubbed": true,
+      "synopsis": "ハロウィンの準備でにぎわう牧場で、牧場主が大切なかぼちゃ畑をめちゃくちゃにしてしまう。ショーンは謎の薬で問題を解決しようとするが、牧場主は行方不明になり、もじゃもじゃの怪物まで現れて大騒動に。アードマン・アニメーションズ50周年記念作品。",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
+      "tmdbId": 1477104,
+      "mubichike": {
+        "available": true,
+        "salesLabel": "〜2026年10月22日(木)23:59（公開前日まで）",
+        "types": "前売オンライン券 / 前売カード券（キーチェーン付・ポーチ付もあり）",
+        "price": "一般1,600円 / 小人900円（キーチェーン付カード券2,900円、ポーチ付カード券3,100円）",
+        "note": "購入特典としてオリジナルスマホ壁紙（2種）あり",
+        "url": "https://ticket.moviewalker.jp/film/093461"
+      },
+      "bonuses": [],
+      "bonusNote": "入場者特典は現時点では発表されていません",
+      "theaters": [],
+      "officialUrl": "https://movies.shochiku.co.jp/shaun-kabocha/",
+      "note": "セリフがほとんど無いクレイアニメなので、小さなこどもでも楽しみやすいシリーズ。日本語版には中村倫也さん・ガンバレルーヤが参加",
       "needsCheck": false,
       "checkReason": ""
     },
@@ -340,12 +377,12 @@ window.__MOVIES__ = {
         "salesLabel": "",
         "types": "",
         "price": "",
-        "note": "7月17日(金)から販売されていましたが、公開中のため終了しています",
+        "note": "公開中のため前売券の販売は終了しています",
         "url": ""
       },
       "bonuses": [],
       "bonusNote": "入場者特典は確認できていません（劇場グッズ・パンフレットの販売あり）",
-      "theaters": ["横浜ブルク13", "T・ジョイ横浜"],
+      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "イオンシネマ みなとみらい"],
       "officialUrl": "https://movies.shochiku.co.jp/eiga-hakuchotokomori/",
       "note": "国内ランキング上位",
       "needsCheck": false,
@@ -374,22 +411,15 @@ window.__MOVIES__ = {
       },
       "bonuses": [
         {
-          "phase": "第1弾",
-          "period": "9/4(金)〜",
-          "content": "『バックルームズ』をもっと楽しむ小冊子（リミナルスペース小講座）",
+          "phase": "第3弾",
+          "period": "9/18(金)〜",
+          "content": "『バックルームズ』黄色い防護服ステッカー",
           "limited": true,
-          "note": ""
-        },
-        {
-          "phase": "第2弾",
-          "period": "9/11(木)〜",
-          "content": "「黄色い部屋の記憶」壁紙ステッカー",
-          "limited": true,
-          "note": "一部劇場を除く、数量限定"
+          "note": "一部劇場を除く、先着数量限定、なくなり次第終了"
         }
       ],
       "bonusNote": "",
-      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "TOHOシネマズ 上大岡"],
+      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "イオンシネマ みなとみらい"],
       "officialUrl": "https://a24jp.com/films/backrooms/",
       "note": "全米初登場1位、世界44か国で初登場1位を記録したA24配給のヒットホラー",
       "needsCheck": false,
@@ -418,104 +448,17 @@ window.__MOVIES__ = {
       },
       "bonuses": [
         {
-          "phase": "第4週目",
-          "period": "9/19(土)〜9/25(金)",
-          "content": "特製ポストカード（キャラクター原案・蒼樹うめによる最新ビジュアル使用）",
+          "phase": "第5週目",
+          "period": "9/26(土)〜10/2(金)",
+          "content": "シャフト描きおろしポストカード",
           "limited": true,
           "note": "なくなり次第配布終了"
         }
       ],
       "bonusNote": "",
-      "theaters": ["T・ジョイ横浜", "イオンシネマ みなとみらい"],
+      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "イオンシネマ みなとみらい"],
       "officialUrl": "https://www.madoka-magica.com/wr/",
       "note": "アニメだが内容は大人向け。小学生以下には不向き",
-      "needsCheck": false,
-      "checkReason": ""
-    },
-    {
-      "title": "SEKIRO: NO DEFEAT",
-      "audience": "adult",
-      "status": "now",
-      "releaseDate": "2026-09-04",
-      "releaseLabel": "2026年9月4日(金)公開（3週間限定上映、9月24日(木)まで）",
-      "rating": "PG12",
-      "runtime": 107,
-      "genre": "アニメ",
-      "dubbed": false,
-      "synopsis": "戦国時代を舞台に、剣聖・葦名一心が建立した葦名の国が存亡の危機に直面。その孫・弦一郎が竜胤の御子・九郎を求める中、隻腕の忍が戦いに身を投じる。ゲーム『SEKIRO』のアニメ映画化。",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/lBWZojUmupfmx3pqVZJIL2v7gF4.jpg",
-      "tmdbId": 1725074,
-      "mubichike": {
-        "available": false,
-        "salesLabel": "",
-        "types": "",
-        "price": "",
-        "note": "公開中のため前売券の販売は終了しています",
-        "url": ""
-      },
-      "bonuses": [],
-      "bonusNote": "1週目・2週目の描きおろしビジュアルボードは配布終了。最終週（3週目）の特典内容は確認できていません",
-      "theaters": ["T・ジョイ横浜", "横浜ブルク13"],
-      "officialUrl": "https://sekiro-anime.jp/",
-      "note": "3週間限定上映で9月24日(木)が最終上映日の予定です",
-      "needsCheck": false,
-      "checkReason": ""
-    },
-    {
-      "title": "時には懺悔を",
-      "audience": "adult",
-      "status": "now",
-      "releaseDate": "2026-08-28",
-      "releaseLabel": "2026年8月28日(金)公開",
-      "rating": "",
-      "runtime": 129,
-      "genre": "ドラマ",
-      "dubbed": false,
-      "synopsis": "内海文三の原作をもとに、刑事とその相棒が殺人事件の真相を追う中、過去に傷を抱えた大人たちが小さな命との出会いを通して再生していく姿を描く。構想18年、中島哲也監督の最新作。",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/l6HnJ4ZVK2oT20MaYTznAU1dkMH.jpg",
-      "tmdbId": 1410587,
-      "mubichike": {
-        "available": false,
-        "salesLabel": "",
-        "types": "",
-        "price": "",
-        "note": "公開中のため前売券の販売は終了しています",
-        "url": ""
-      },
-      "bonuses": [],
-      "bonusNote": "現時点では確認できていません",
-      "theaters": ["横浜ブルク13", "TOHOシネマズ ららぽーと横浜"],
-      "officialUrl": "https://www.tokizan.jp/",
-      "note": "レビュー評価の高い作品。中島哲也監督",
-      "needsCheck": false,
-      "checkReason": ""
-    },
-    {
-      "title": "スワロウテイル（4Kリマスター）",
-      "audience": "adult",
-      "status": "now",
-      "releaseDate": "2026-09-04",
-      "releaseLabel": "2026年9月4日(金)公開（公開30周年記念・4Kリマスター版）",
-      "rating": "",
-      "runtime": 149,
-      "genre": "邦画・ドラマ",
-      "dubbed": false,
-      "synopsis": "紙幣偽造のデータを手に入れた娼婦のグリコは、中国系移民のヒョウたちと偽札作りを始める。ライブハウスを買い取り歌手として有名になっていく彼女を軸に、近未来の無国籍都市\"円都\"を生きる若者たちを描く。",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/p67xuAENDxee2DZZfRQFiVH3iBR.jpg",
-      "tmdbId": 8426,
-      "mubichike": {
-        "available": false,
-        "salesLabel": "",
-        "types": "",
-        "price": "",
-        "note": "リバイバル上映のため前売券の設定は確認できていません",
-        "url": ""
-      },
-      "bonuses": [],
-      "bonusNote": "現時点では確認できていません",
-      "theaters": ["横浜ブルク13", "TOHOシネマズ ららぽーと横浜"],
-      "officialUrl": "https://swallowtail4k.jp/",
-      "note": "岩井俊二監督完全監修による公開30周年記念4Kリマスター＆Dolby Atmos版",
       "needsCheck": false,
       "checkReason": ""
     },
@@ -542,9 +485,9 @@ window.__MOVIES__ = {
       },
       "bonuses": [],
       "bonusNote": "入場者特典は現時点では確認できていません",
-      "theaters": ["TOHOシネマズ ららぽーと横浜", "T・ジョイ横浜"],
+      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "イオンシネマ みなとみらい"],
       "officialUrl": "https://odyssey-film.jp/",
-      "note": "全米ランキング上位",
+      "note": "全米ランキング上位。T・ジョイ横浜ではDolby Cinema上映あり",
       "needsCheck": false,
       "checkReason": ""
     },
@@ -555,7 +498,7 @@ window.__MOVIES__ = {
       "releaseDate": "2026-09-11",
       "releaseLabel": "2026年9月11日(金)公開",
       "rating": "",
-      "runtime": 127,
+      "runtime": 128,
       "genre": "アニメ",
       "dubbed": false,
       "synopsis": "難関の関西大会を突破し、全国大会出場に沸き立つ北宇治高校吹奏楽部。全国大会出場をかけたオーディションに向け、部員たちの葛藤と決意を描くシリーズ最終章の後編。",
@@ -566,22 +509,22 @@ window.__MOVIES__ = {
         "salesLabel": "",
         "types": "",
         "price": "",
-        "note": "クリアファイル付きムビチケカードは完売、前売オンライン券も販売終了しており入手が難しい状況です",
+        "note": "公開中のため前売券の販売は終了しています",
         "url": ""
       },
       "bonuses": [
         {
-          "phase": "",
-          "period": "9/11(金)〜",
-          "content": "「ゴールド箔押し！グラデュエ」",
+          "phase": "3週目",
+          "period": "9/25(金)〜10/1(木)",
+          "content": "オーディオドラマダウンロードカード（全2種）",
           "limited": true,
-          "note": ""
+          "note": "なくなり次第配布終了"
         }
       ],
       "bonusNote": "",
-      "theaters": ["T・ジョイ横浜", "イオンシネマ みなとみらい"],
+      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "イオンシネマ みなとみらい"],
       "officialUrl": "https://anime-eupho.com/",
-      "note": "前編を観ていることが前提のシリーズ作品",
+      "note": "前編を観ていることが前提のシリーズ作品。横浜ブルク13では日本語字幕付き上映あり",
       "needsCheck": false,
       "checkReason": ""
     },
@@ -616,7 +559,7 @@ window.__MOVIES__ = {
         }
       ],
       "bonusNote": "",
-      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "TOHOシネマズ 上大岡"],
+      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "イオンシネマ みなとみらい"],
       "officialUrl": "https://odoru.com/odorunew/tickets.html",
       "note": "主題歌は織田裕二「Love Somebody」",
       "needsCheck": false,
@@ -647,81 +590,15 @@ window.__MOVIES__ = {
         {
           "phase": "",
           "period": "9/18(金)〜",
-          "content": "八つ墓村オリジナルたたりカード",
+          "content": "八つ墓村オリジナルたたりカード（裏面に鑑賞者向けの秘密のメッセージと二次元コード付き）",
           "limited": true,
-          "note": "なくなり次第配布終了"
+          "note": "なくなり次第配布終了。TOHOシネマズでは配布なし"
         }
       ],
       "bonusNote": "",
-      "theaters": ["T・ジョイ横浜"],
+      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "イオンシネマ みなとみらい"],
       "officialUrl": "https://movies.shochiku.co.jp/yatsuhakamura-movie/",
       "note": "清水崇監督×尾上松也の新解釈による『八つ墓村』",
-      "needsCheck": false,
-      "checkReason": ""
-    },
-    {
-      "title": "劇場版 RE:cycle of the PENGUINDRUM 前編 君の列車は生存戦略",
-      "audience": "adult",
-      "status": "soon",
-      "releaseDate": "2026-09-25",
-      "releaseLabel": "2026年9月25日(金)〜10月1日(木) 1週間限定リバイバル上映",
-      "rating": "",
-      "runtime": 125,
-      "genre": "アニメ",
-      "dubbed": false,
-      "synopsis": "妹の命を救うため、双子の兄弟は謎のペンギン帽の指示で「ピングドラム」を探すことになる。『輪るピングドラム』15周年を記念した1週間限定リバイバル上映。",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/g4JOzZ47Uncu6jJtmY4QWXSHGT4.jpg",
-      "tmdbId": 813707,
-      "mubichike": {
-        "available": false,
-        "salesLabel": "",
-        "types": "",
-        "price": "",
-        "note": "15周年記念リバイバル上映のため前売券の設定は確認できていません",
-        "url": ""
-      },
-      "bonuses": [
-        {
-          "phase": "",
-          "period": "9/25(金)〜",
-          "content": "ポスタービジュアルを使用したスマホサイズステッカー",
-          "limited": false,
-          "note": ""
-        }
-      ],
-      "bonusNote": "",
-      "theaters": ["横浜ブルク13"],
-      "officialUrl": "https://penguindrum.jp/event/20260925.html",
-      "note": "後編は10月2日(金)〜10月8日(木)に上映予定（後編にも同様のステッカー特典あり）。9/27には幾原邦彦監督・木村昴さん登壇のトークショー付き上映会も開催",
-      "needsCheck": false,
-      "checkReason": ""
-    },
-    {
-      "title": "キングダム 魂の決戦",
-      "audience": "adult",
-      "status": "now",
-      "releaseDate": "2026-07-17",
-      "releaseLabel": "2026年7月17日(金)公開",
-      "rating": "G",
-      "runtime": 133,
-      "genre": "邦画・アクション",
-      "dubbed": false,
-      "synopsis": "秦国が馬陽の戦いで将軍・王騎を失ってから3年。千人将に昇格した信が天下の大将軍を目指す中、趙の宰相・李牧の策略により秦以外の全ての国が手を組み、総数50万の合従軍が秦へ侵攻。函谷関で20万の兵力による防衛戦が始まる。",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/iSPPbrrkiiT2O8WkLjUL2YafEJw.jpg",
-      "tmdbId": 1511675,
-      "mubichike": {
-        "available": false,
-        "salesLabel": "",
-        "types": "",
-        "price": "",
-        "note": "公開中のため前売券の販売は終了しています",
-        "url": ""
-      },
-      "bonuses": [],
-      "bonusNote": "入場者特典は実施されていない可能性があります（配布情報は確認できていません）",
-      "theaters": ["T・ジョイ横浜", "イオンシネマ みなとみらい"],
-      "officialUrl": "https://kingdom-the-movie.jp/",
-      "note": "シリーズ第5作。函谷関の戦いを描く、公開から2か月以上経過していますがロングランで上映継続中",
       "needsCheck": false,
       "checkReason": ""
     },
@@ -756,9 +633,89 @@ window.__MOVIES__ = {
         }
       ],
       "bonusNote": "",
-      "theaters": ["T・ジョイ横浜", "イオンシネマ みなとみらい"],
+      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "イオンシネマ みなとみらい"],
       "officialUrl": "https://k2pic.com/film/lb/",
       "note": "第83回ヴェネチア国際映画祭コンペティション部門に正式出品",
+      "needsCheck": false,
+      "checkReason": ""
+    },
+    {
+      "title": "新劇場版 銀魂 -吉原大炎上-＜超炎上版＞",
+      "audience": "adult",
+      "status": "now",
+      "releaseDate": "2026-09-25",
+      "releaseLabel": "2026年9月25日(金)公開（＜超炎上版＞として再上映）",
+      "rating": "",
+      "runtime": 124,
+      "genre": "アニメ",
+      "dubbed": false,
+      "synopsis": "2026年2月に公開された『新劇場版 銀魂 -吉原大炎上-』の＜超炎上版＞。地下遊郭・吉原を舞台に、坂田銀時ら万事屋が、夜兎族の鳳仙が支配する街で囚われた人々を救うため激しい戦いに挑む。",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5F7YrauGDP2tbzz84KKwji2MB3e.jpg",
+      "tmdbId": 1530941,
+      "mubichike": {
+        "available": false,
+        "salesLabel": "",
+        "types": "",
+        "price": "",
+        "note": "公開中のため前売券の販売は終了しています",
+        "url": ""
+      },
+      "bonuses": [
+        {
+          "phase": "第1弾",
+          "period": "9/25(金)〜10/1(木)",
+          "content": "「銀さんもうすぐお誕生日おめでとう色紙」全4種",
+          "limited": true,
+          "note": "劇場により数に限りあり、無くなり次第終了"
+        },
+        {
+          "phase": "第2弾",
+          "period": "10/2(金)〜10/8(木)",
+          "content": "「つながるバトルイラストカード＜万事屋＞」",
+          "limited": true,
+          "note": "劇場により数に限りあり、無くなり次第終了"
+        },
+        {
+          "phase": "第3弾",
+          "period": "10/9(金)〜10/15(木)",
+          "content": "「つながるバトルイラストカード＜吉原桃源郷・夜兎＞」（第2弾とつなげると1枚のバトルイラストに）",
+          "limited": true,
+          "note": "劇場により数に限りあり、無くなり次第終了"
+        }
+      ],
+      "bonusNote": "",
+      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "イオンシネマ みなとみらい"],
+      "officialUrl": "https://www.anime-gintama.com/movie2026/",
+      "note": "週替わりで特典が変わるため、欲しい特典がある場合は配布期間に注意",
+      "needsCheck": false,
+      "checkReason": ""
+    },
+    {
+      "title": "マッチング TRUE LOVE",
+      "audience": "adult",
+      "status": "now",
+      "releaseDate": "2026-09-25",
+      "releaseLabel": "2026年9月25日(金)公開",
+      "rating": "PG12",
+      "runtime": 107,
+      "genre": "邦画・サスペンス",
+      "dubbed": false,
+      "synopsis": "マッチングアプリによる連続殺人事件から2年。恋人の吐夢が失踪し、模倣殺人まで起きる中、輪花は南の島のリゾートで開かれるマッチングツアーに参加し、「真実の愛を証明できなければ殺される」デスゲームに巻き込まれる。土屋太鳳×佐久間大介、内田英治監督。",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kWIqWDagKVlCXxwHzxsmDPJU2ld.jpg",
+      "tmdbId": 1595400,
+      "mubichike": {
+        "available": false,
+        "salesLabel": "",
+        "types": "",
+        "price": "",
+        "note": "公開中のため前売券の販売は終了しています",
+        "url": ""
+      },
+      "bonuses": [],
+      "bonusNote": "入場者特典は現時点では確認できていません",
+      "theaters": ["横浜ブルク13", "T・ジョイ横浜", "イオンシネマ みなとみらい"],
+      "officialUrl": "https://movies.kadokawa.co.jp/matching/",
+      "note": "2024年のヒット作『マッチング』の続編",
       "needsCheck": false,
       "checkReason": ""
     },
@@ -780,7 +737,7 @@ window.__MOVIES__ = {
         "salesLabel": "〜2026年10月8日(木)23:59（公開前日まで）",
         "types": "ムビチケカード / 前売オンライン券",
         "price": "1,500円（税込）",
-        "note": "",
+        "note": "購入者限定の鑑賞特典（ムビチケデジタルカード）は準備中と案内されています",
         "url": "https://ticket.moviewalker.jp/film/090318"
       },
       "bonuses": [],
@@ -788,6 +745,35 @@ window.__MOVIES__ = {
       "theaters": ["横浜ブルク13", "T・ジョイ横浜", "イオンシネマ みなとみらい"],
       "officialUrl": "https://nanji.toho-movie.jp/",
       "note": "本屋大賞受賞作の実写映画化。藤井道人監督",
+      "needsCheck": false,
+      "checkReason": ""
+    },
+    {
+      "title": "バイオハザード",
+      "audience": "adult",
+      "status": "soon",
+      "releaseDate": "2026-10-09",
+      "releaseLabel": "2026年10月9日(金)公開",
+      "rating": "",
+      "runtime": 90,
+      "genre": "洋画・ホラー",
+      "dubbed": true,
+      "synopsis": "主人公は、どこにでもいる普通の配達員ブライアン。ある医薬品をラクーン・シティに届ける仕事を受けたことから、命運を懸けた地獄の一夜が始まる。『WEAPONS／ウェポンズ』のザック・クレッガー監督がゲームを完全新作として再構築したサバイバルホラー。",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wHXSnGH3zQtvpxPwaBXMoS9o8Vl.jpg",
+      "tmdbId": 1423191,
+      "mubichike": {
+        "available": true,
+        "salesLabel": "〜2026年10月8日(木)23:59（公開前日まで）",
+        "types": "前売オンライン券",
+        "price": "一般1,700円",
+        "note": "購入者限定の鑑賞特典としてムビチケデジタルカードあり",
+        "url": "https://ticket.moviewalker.jp/film/093315"
+      },
+      "bonuses": [],
+      "bonusNote": "入場者特典は現時点では発表されていません",
+      "theaters": [],
+      "officialUrl": "https://biomovie.jp/",
+      "note": "日本語吹替版あり（下野紘、早見沙織ほか）",
       "needsCheck": false,
       "checkReason": ""
     }
